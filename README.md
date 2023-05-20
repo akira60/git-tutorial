@@ -1,2 +1,6 @@
 お試しだよ？
 ＃Git チュートリアル
+
+    -feature-A-
+    -feature-A-
+    
