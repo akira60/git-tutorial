@@ -1,5 +1,6 @@
 お試しだよ？
 ＃Git チュートリアル
 
-    -fix-B-
-    
+    -feature-A-
+    -feature-A-
+    fixB
