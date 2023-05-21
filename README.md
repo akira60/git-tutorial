@@ -4,3 +4,4 @@
     -feature-A-
     -feature-A-
     -fixB-
+    -feeeature-C-
