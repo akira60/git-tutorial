@@ -3,4 +3,4 @@
 
     -feature-A-
     -feature-A-
-    fixB
+    -fixB-
