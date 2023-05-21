@@ -5,4 +5,4 @@
     -feature-A-
     -fixB-
     -feature-C-
-    -geature-D-
+    -feature-D-
